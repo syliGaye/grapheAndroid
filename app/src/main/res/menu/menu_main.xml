@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_restart"
+        android:title="@string/menu_restart"
+        app:showAsAction="never"
+        />
+
+    <item android:id="@+id/menu_Modes"
+        android:title="@string/menu_Modes"
+        app:showAsAction="never">
+
+        <!-- The submenu starts here -->
+        <menu>
+            <item android:id="@+id/submenu_ajoutObjet"
+                android:title="@string/submenu_ajoutObjet" />
+            <item android:id="@+id/submenu_ajoutConnexion"
+                android:title="@string/submenu_ajoutConnexion" />
+            <item android:id="@+id/submenu_moveNode"
+                android:title="@string/submenu_moveNoeud" />
+            <item android:id="@+id/submenu_modif"
+                android:title="@string/submenu_modif" />
+        </menu>
+    </item>
+
+    <item android:id="@+id/menu_files"
+        android:title="@string/menu_files"
+        app:showAsAction="never">
+
+        <!-- The submenu starts here -->
+        <menu>
+            <item android:id="@+id/submenu_save"
+                android:title="@string/submenu_save" />
+            <item android:id="@+id/submenu_open"
+                android:title="@string/submenu_load" />
+            <item android:id="@+id/submenu_send"
+                android:title="@string/submenu_send" />
+        </menu>
+    </item>
+    <item android:id="@+id/menu_changeplan"
+        android:title="@string/menu_changeplan"
+        app:showAsAction="never"
+        />
+<!--    <item android:id="@+id/menu_language"-->
+<!--        android:title="@string/menu_language"-->
+<!--        app:showAsAction="never">-->
+<!--        <menu>-->
+<!--            <item android:id="@+id/submenu_English"-->
+<!--                android:title="@string/submenu_English" />-->
+<!--            <item android:id="@+id/submenu_Francais"-->
+<!--                android:title="@string/submenu_Francais" />-->
+<!--        </menu>-->
+<!--    </item>-->
+
+</menu>

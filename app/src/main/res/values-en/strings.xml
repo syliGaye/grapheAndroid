@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">NetworkGT</string>
+    <string name="title_id">Network Gaye/Tien</string>
+    <string name="menu_restart">Reset</string>
+    <string name="menu_Modes">Mode</string>
+    <string name="menu_files">Files</string>
+    <string name="menu_language">Languages</string>
+    <string name="menu_changeplan">Change the Plan</string>
+
+    <string name="submenu_ajoutObjet">Add Nodes</string>
+    <string name="submenu_ajoutConnexion">Add Connections</string>
+    <string name="submenu_moveNoeud">Moving Objects</string>
+    <string name="submenu_modif">Update graph</string>
+    <string name="submenu_save">Save network</string>
+    <string name="submenu_load">Load a network</string>
+    <string name="submenu_send">Send by email</string>
+    <string name="submenu_English">English</string>
+    <string name="submenu_Francais">French</string>
+    <string name="ajouter_un_noeud">Add a object</string>
+
+    <string name="init_graph_msg">Graph Reset</string>
+    <string name="add_node_msg">Add node mode</string>
+    <string name="add_connection_msg">Add connection mode</string>
+    <string name="move_node_msg">Node move mode</string>
+    <string name="update_graph_msg">Graph edit Mode</string>
+    <string name="no_exist_node">The node(s) do not exist</string>
+
+    <string name="node_name_attr">Node name: </string>
+    <string name="node_name_real">Node</string>
+    <string name="connection_name_attr">Connection name: </string>
+    <string name="connection_name_real">Connection</string>
+    <string name="ok_btn">Ok</string>
+    <string name="cancel_btn">Cancel</string>
+
+    <string name="node_color_attr">Node color: </string>
+    <string name="node_image_attr">Node image: </string>
+    <string name="connexion_color_attr">Connection color: </string>
+    <string name="connexion_epaisseur_attr">Connection thickness: </string>
+
+    <string name="house">House</string>
+    <string name="printer">Printer</string>
+    <string name="television">Television</string>
+    <string name="node">Node</string>
+
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="orange">Orange</string>
+    <string name="cyan">Cyan</string>
+    <string name="magenta">Magenta</string>
+    <string name="black">Black</string>
+
+    <string name="connexion_name_attr">Connection name: </string>
+    <string name="connexion_name_real">Connection</string>
+
+    <string name="noeud_supprimer">Delete Node</string>
+    <string name="noeud_etiquette">Change Label</string>
+    <string name="noeud_couleur">Change Color</string>
+    <string name="noeud_images">Replace with Image</string>
+    <string name="connexion_supprimer">Delete Connection</string>
+    <string name="connexion_etiquette">Change Label</string>
+    <string name="connexion_couleur">Change Color</string>
+    <string name="connexion_epaisseur">Change Thickness</string>
+</resources>

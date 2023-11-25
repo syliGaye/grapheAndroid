@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">NetworkGT</string>
+    <string name="title_id">Network Gaye/Tien</string>
+    <string name="menu_restart">Réinitialiser</string>
+    <string name="menu_Modes">Modes</string>
+    <string name="menu_files">Fichiers</string>
+    <string name="menu_language">Langues</string>
+    <string name="menu_changeplan">Changer le Plan</string>
+
+    <string name="submenu_ajoutObjet">Ajouter des Objets</string>
+    <string name="submenu_ajoutConnexion">Ajouter des Connexions</string>
+    <string name="submenu_moveNoeud">Déplacer des Objets</string>
+    <string name="submenu_modif">Modifier le graphe</string>
+    <string name="submenu_save">Sauvegarder le réseau</string>
+    <string name="submenu_load">Charger un réseau</string>
+    <string name="submenu_send">Envoyer par mail</string>
+    <string name="submenu_English">Anglais</string>
+    <string name="submenu_Francais">Francais</string>
+    <string name="ajouter_un_noeud">Ajouter un objet</string>
+
+    <string name="init_graph_msg">Réinitialisation du Graphe</string>
+    <string name="add_node_msg">Mode ajout de noeud</string>
+    <string name="add_connection_msg">Mode ajout de connexion</string>
+    <string name="move_node_msg">Mode déplacement de noeud</string>
+    <string name="update_graph_msg">Mode modification de graphe</string>
+    <string name="no_exist_node">Le(s) noeud(s) n\'existe(nt) pas</string>
+
+    <string name="node_name_attr">Nom du noeud: </string>
+    <string name="node_name_real">Noeud</string>
+    <string name="connection_name_attr">Nom de la connexion: </string>
+    <string name="connection_name_real">Connexion</string>
+    <string name="ok_btn">Valider</string>
+    <string name="cancel_btn">Annuler</string>
+
+    <string name="node_color_attr">Couleur du noeud: </string>
+    <string name="node_image_attr">Image du noeud: </string>
+    <string name="connexion_color_attr">Couleur de la connexion: </string>
+    <string name="connexion_epaisseur_attr">Epaisseur de la connexion: </string>
+
+    <string name="red">Rouge</string>
+    <string name="green">Vert</string>
+    <string name="blue">Bleu</string>
+    <string name="orange">Orange</string>
+    <string name="cyan">Cyan</string>
+    <string name="magenta">Magenta</string>
+    <string name="black">Noir</string>
+
+    <string name="house">Maison</string>
+    <string name="printer">Imprimante</string>
+    <string name="television">Television</string>
+    <string name="node">Noeud</string>
+
+    <string name="connexion_name_attr">Nom de la connexion: </string>
+    <string name="connexion_name_real">Connexion</string>
+
+    <string name="noeud_supprimer">Supprimer Noeud</string>
+    <string name="noeud_etiquette">Changer Etiquette</string>
+    <string name="noeud_couleur">Changer Couleur</string>
+    <string name="noeud_images">Remplacer avec Image</string>
+    <string name="connexion_supprimer">Supprimer Connexion</string>
+    <string name="connexion_etiquette">Changer Etiquette</string>
+    <string name="connexion_couleur">Changer Couleur</string>
+    <string name="connexion_epaisseur">Changer Epaisseur</string>
+</resources>

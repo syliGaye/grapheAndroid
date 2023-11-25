@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#80000000">
+
+    <TextView
+        android:id="@+id/nodeNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Default Text"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btnSupprimer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/noeud_supprimer"
+        android:textColor="#FFFFFF"/>
+
+    <Button
+        android:id="@+id/btnEtiquette"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/noeud_etiquette"
+        android:textColor="#FFFFFF"/>
+
+    <Button
+        android:id="@+id/btnCouleur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/noeud_couleur"
+        android:textColor="#FFFFFF"/>
+
+    <Button
+        android:id="@+id/btnImages"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/noeud_images"
+        android:textColor="#FFFFFF"/>
+</LinearLayout>
